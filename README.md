@@ -1,0 +1,2 @@
+# armrobot_holder_case
+犬型ロボット搭載アームの実験用の固定台
